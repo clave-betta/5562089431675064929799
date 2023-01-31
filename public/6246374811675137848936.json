@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "925494524171",
+    "project_id": "smartmod-10a65",
+    "storage_bucket": "smartmod-10a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925494524171:android:9285208ca098525aa80a0e",
+        "android_client_info": {
+          "package_name": "com.smartmod.bocatocaoutfitideas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925494524171-on50fk01js16929uthh7o1jhnj6v1p9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBzB_sCHIVvPznF4osfjkdagD_2NAsz2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925494524171-on50fk01js16929uthh7o1jhnj6v1p9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9747705260953858~5001796657"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925494524171:android:315c673ffe2a7908a80a0e",
+        "android_client_info": {
+          "package_name": "com.smartmod.summertimesagaelvn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925494524171-on50fk01js16929uthh7o1jhnj6v1p9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBzB_sCHIVvPznF4osfjkdagD_2NAsz2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925494524171-on50fk01js16929uthh7o1jhnj6v1p9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9747705260953858~8550083449"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925494524171:android:43a7ac9b3cd30a6ba80a0e",
+        "android_client_info": {
+          "package_name": "com.test.gstdg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925494524171-on50fk01js16929uthh7o1jhnj6v1p9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBzB_sCHIVvPznF4osfjkdagD_2NAsz2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925494524171-on50fk01js16929uthh7o1jhnj6v1p9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9747705260953858~2701305099"
+    }
+  ],
+  "configuration_version": "1"
+}
